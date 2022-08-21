@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mahte007 - Horváth Máté
+- 👀 I’m interested in programming, games, and any tech related stuff. Also cooking ;)
+- 🌱 I’m currently learning Web Development (Udemy BootCamp by Angely Yu)
+- 📫 You can reach me in email: mahte007@gmail.com
